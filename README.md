@@ -1,1 +1,1 @@
-# CS-230-Hemorrhage Detection and Classification
+# CS-230-Hemorrhage Detection and Classification Project
